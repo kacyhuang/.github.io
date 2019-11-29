@@ -2,6 +2,7 @@
 網站 template 的來源網址https://colorlib.com/wp/template/studio/
 reference:bootstrap card
 首頁變動：
+loading中的how's your day跟跳出來的詞句
 把左邊直列的icon、社群媒體換掉，調整間距
 做一個自己的logo [YFH]
 bar上面的pages改成連結自己的作品集
